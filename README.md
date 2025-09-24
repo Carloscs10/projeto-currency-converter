@@ -8,14 +8,14 @@ Ideal para planejar suas finanças ou viagens internacionais.
 
 --**Tela Principal**
 <br>
-<img src="https://github.com/Carloscs10/projeto-currency-converter/blob/main/assets/img/Capturarw.PNG?raw=true  width="350px" ">
+<img src="https://github.com/Carloscs10/projeto-currency-converter/blob/main/assets/img/Capturarw.PNG?raw=true width: 350px;"/>
 <br>
 --**Segunda tela**
 <br>
-<img src="https://github.com/Carloscs10/projeto-currency-converter/blob/main/assets/img/Capturar2.PNG?raw=true width="350px" ">
+<img src="https://github.com/Carloscs10/projeto-currency-converter/blob/main/assets/img/Capturar2.PNG?raw=true width: 350px;"/>
 <br>
 --**Terceira tela final**
-<img src="https://github.com/Carloscs10/projeto-currency-converter/blob/main/assets/img/Capturar3.PNG?raw=true  width="350px" ">
+<img src="https://github.com/Carloscs10/projeto-currency-converter/blob/main/assets/img/Capturar3.PNG?raw=true width: 350px;"/>
 <br>
 
 ## Sobre o Projeto
