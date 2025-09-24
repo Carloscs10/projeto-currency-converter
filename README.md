@@ -6,7 +6,14 @@ Ideal para planejar suas finanças ou viagens internacionais.
 ---
 ## Prévia do Projeto
 
-![Screenshot do projeto](./img/screenshot-projeto.png)
+--**Tela Principal**
+<img src="https://github.com/Carloscs10/projeto-currency-converter/blob/main/assets/img/Capturarw.PNG?raw=true">
+<br>
+--**Segunda tela**
+<img src="https://github.com/Carloscs10/projeto-currency-converter/blob/main/assets/img/Capturar2.PNG?raw=true">
+<br>
+--**Terceira tela final**
+<img src="https://github.com/Carloscs10/projeto-currency-converter/blob/main/assets/img/Capturar3.PNG?raw=true">
 
 
 ## Sobre o Projeto
