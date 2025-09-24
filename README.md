@@ -7,14 +7,16 @@ Ideal para planejar suas finanças ou viagens internacionais.
 ## Prévia do Projeto
 
 --**Tela Principal**
-<img src="https://github.com/Carloscs10/projeto-currency-converter/blob/main/assets/img/Capturarw.PNG?raw=true">
+<br>
+<img src="https://github.com/Carloscs10/projeto-currency-converter/blob/main/assets/img/Capturarw.PNG?raw=true  width="350px" ">
 <br>
 --**Segunda tela**
-<img src="https://github.com/Carloscs10/projeto-currency-converter/blob/main/assets/img/Capturar2.PNG?raw=true">
+<br>
+<img src="https://github.com/Carloscs10/projeto-currency-converter/blob/main/assets/img/Capturar2.PNG?raw=true width="350px" ">
 <br>
 --**Terceira tela final**
-<img src="https://github.com/Carloscs10/projeto-currency-converter/blob/main/assets/img/Capturar3.PNG?raw=true">
-
+<img src="https://github.com/Carloscs10/projeto-currency-converter/blob/main/assets/img/Capturar3.PNG?raw=true  width="350px" ">
+<br>
 
 ## Sobre o Projeto
 Este projeto converte moedas de forma prática, mas com um toque mais dinâmico e visual: 
