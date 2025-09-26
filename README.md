@@ -1,4 +1,4 @@
-# DevClub - Convert Money Futurista Premium
+# Convert Money 
 
 Uma **ferramenta de conversão de moedas** com visual futurista, áudio de hinos nacionais e partículas animadas no fundo.
 Ideal para planejar suas finanças ou viagens internacionais.
@@ -8,15 +8,15 @@ Ideal para planejar suas finanças ou viagens internacionais.
 
 --**Tela Principal**
 <br>
-<img src="https://github.com/Carloscs10/projeto-currency-converter/blob/main/assets/img/Capturarw.PNG?raw=true" width="350px"  />
+<img src="https://github.com/Carloscs10/projeto-currency-converter/blob/main/Capturarw.PNG?raw=true" width="350px"  />
 <br>
 --**Segunda tela**
 <br>
-<img src="https://github.com/Carloscs10/projeto-currency-converter/blob/main/assets/img/Capturar2.PNG?raw=true " width="350px" />
+<img src="https://github.com/Carloscs10/projeto-currency-converter/blob/main/Capturar2.PNG?raw=true" width="350px" />
 <br>
 --**Terceira tela final**
 <br>
-<img src="https://github.com/Carloscs10/projeto-currency-converter/blob/main/assets/img/Capturar3.PNG?raw=true " width="350px"/>
+<img src="https://github.com/Carloscs10/projeto-currency-converter/blob/main/Capturar3.PNG?raw=true" width="350px"/>
 <br>
 
 ## Sobre o Projeto
