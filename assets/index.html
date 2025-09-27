@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DevClub - Convert Money Futurista Premium</title>
+    <!-- Link para o arquivo CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <!-- BACKGROUND FUTURISTA COM PARTICULAS -->
+    <div class="background-overlay"></div>
+    <canvas id="particle-canvas"></canvas>
+
+    <!-- TELA INICIAL PROFISSIONAL -->
+    <section class="hero">
+        <img src="./img/casaf.gif" alt="Gif de dinheiro" class="hero-logo">
+        <h1 class="hero-title">Conversão de Moedas Segura e Profissional</h1>
+        <p class="hero-subtitle">
+            A ferramenta ideal para planejar suas finanças ou aquela viagem dos sonhos.
+        </p>
+        <button id="start-converter" class="hero-button">Começar Conversão</button>
+    </section>
+
+    <!-- CARD DO CONVERSOR -->
+    <main class="converter-box hidden">
+
+        <label>Convert <b>de</b>
+            <select class="select-convert-one">
+                <option value="real">R$ Real Brasileiro</option>
+                <option value="euro">€ Euro</option>
+                <option value="dolar">US$ Dólar americano</option>
+                <option value="libra">Libra</option>
+                <option value="rublo">Rublo russo</option>
+            </select>
+        </label>
+
+        <label>Converter <b>para</b>
+            <select class="select-convert-two">
+                <option value="real">R$ Real Brasileiro</option>
+                <option value="euro">€ Euro</option>
+                <option value="dolar">US$ Dólar americano</option>
+                <option value="libra">Libra</option>
+                <option value="rublo">Rublo russo</option>
+            </select>
+        </label>
+
+        <label>Valor
+            <input class="input-convert" type="number" placeholder="10.000,00">
+        </label>
+
+        <button class="button-convert">Converter</button>
+
+        <!-- RESULTADOS -->
+        <section class="results">
+            <div class="currency-box-one">
+                <img src="./img/Real.png" alt="Real" class="currency-img-one">
+                <p class="currency-one">Real</p>
+                <p class="currency-value-one">R$ 0,00</p>
+            </div>
+
+            <img class="arrow" src="./img/seta.png" alt="seta" >
+
+            <div class="currency-box-two">
+                <img src="./img/dolar.png" alt="Dólar" class="currency-img-two">
+                <p class="currency-two">Dólar Americano</p>
+                <p class="currency-value-two">US$ 0,00</p>
+            </div>
+        </section>
+    </main>
+
+    <!-- CONTROLES DE ÁUDIO -->
+    <div class="audio-controls">
+        <button id="toggle-play">▶</button>
+        <button id="toggle-volume">🔊 +</button>
+    </div>
+    <audio id="audio-hino"></audio>
+
+    <!-- Link para o arquivo JS -->
+    <script src="scripts.js"></script>
+</body>
+
+</html>
